@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID" width="120px;" style="border-radius: 50%" alt="Foto de Gabriel Malva"/>
+  <img src="https://avatars.githubusercontent.com/u/90631347" width="120px;" style="border-radius: 50%" alt="Foto de Gabriel Malva"/>
   <br />
   Olá! Eu sou o Gabriel Malva 👋
 </h1>
 
 <p align="center">
   💻 Analista de Sistemas Sênior | Full Stack Developer <br>
-  🚀 +8 anos de experiência em desenvolvimento web, APIs e integrações <br>
+  🚀 +15 anos de experiência em desenvolvimento web, APIs e integrações <br>
   📍 Foco em soluções escaláveis, organizadas e com boa performance
 </p>
 
@@ -35,4 +35,3 @@
 ### 📬 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-malva)](https://www.linkedin.com/in/gabriel-malva)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielrossiom@gmail.com)](mailto:gabrielrossiom@gmail.com)
-
