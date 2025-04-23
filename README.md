@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://avatars.githubusercontent.com/u/39544707" width="120px;" style="border-radius: 50%" alt="Foto de Gabriel Malva"/>
   <br />
   Olá! Eu sou o Gabriel Malva 👋
 </h1>
